@@ -6,7 +6,7 @@ Easily enter the backend with any exisiting user by just entering the
 username. This can be used for testing different users, next to the
 exisiting switch user functionality, e.g. in case MFA has to be evaluated.
 
-## DISCLAMER
+## ![DISCLAMER](./Resources/Public/Icons/Warning.png) DISCLAMER
 
 *THIS EXTENSION IS FOR CONVIENCE WHILE TESTING AND DEVELOPING.
 DO NOT USE THIS ON PRODUCTION WEBSITES!*
