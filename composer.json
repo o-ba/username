@@ -1,5 +1,5 @@
 {
-	"name": "bo/username",
+	"name": "o-ba/username",
 	"type": "typo3-cms-extension",
 	"description": "Login provider to login with username only.",
 	"license": "GPL-2.0-or-later",
