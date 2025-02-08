@@ -1,0 +1,29 @@
+{
+	"name": "bo/username",
+	"type": "typo3-cms-extension",
+	"description": "Login provider to login with username only.",
+	"license": "GPL-2.0-or-later",
+	"require": {
+		"php": "^8.1",
+		"typo3/cms-core": "^12.4 || ^13.4",
+		"typo3/cms-backend": "^12.4 || ^13.4"
+	},
+	"autoload": {
+		"psr-4": {
+			"Bo\\Username\\": "Classes/"
+		}
+	},
+	"extra": {
+		"typo3/cms": {
+			"extension-key": "username"
+		}
+	},
+	"authors": [
+		{
+			"name": "Oliver Bartsch",
+			"role": "Developer",
+			"email": "bo@cedev.de",
+			"homepage": "https://cedev.de/"
+		}
+	]
+}
