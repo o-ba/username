@@ -13,7 +13,7 @@ DO NOT USE THIS ON PRODUCTION WEBSITES!*
 
 ## Installation
 
-Install this extension via `composer req bo/username`.
+Install this extension via `composer req o-ba/username`.
 
 **Note**: This extension is compatible with TYPO3 v12 and v13.
 
